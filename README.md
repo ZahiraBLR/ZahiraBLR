@@ -4,6 +4,7 @@
 
 <div align="center">
   
+  <!-- Replace 'yourprofile' with your LinkedIn username, 'your.email@example.com' with your email, and 'yourportfolio.com' with your portfolio URL -->
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZahiraBLR)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
@@ -162,6 +163,7 @@ me.say_hi()
 
 ## 🎯 Featured Projects
 
+<!-- Replace 'project1' and 'project2' with your actual repository names -->
 <div align="center">
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZahiraBLR&repo=project1&theme=radical)](https://github.com/ZahiraBLR/project1)
@@ -188,6 +190,7 @@ me.say_hi()
 
 ## 🐍 Contribution Snake
 
+<!-- This requires setting up a GitHub Action: https://github.com/Platane/snk -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/ZahiraBLR/ZahiraBLR/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
